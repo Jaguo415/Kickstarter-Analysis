@@ -4,7 +4,7 @@ Recommendations for successful kickstarter:
 Host Region: United States
 Category: Theater ![image_name](file:///Users/jguo/Desktop/Analysis%20Project/Crowdfunding%20Analysis/Category_Overview_Analysis.png)
 Best time to Launch Kickstarter Campaign: May, June, July ![image_name](file:///Users/jguo/Desktop/Analysis%20Project/Crowdfunding%20Analysis/Line_Chart_Analysis.png)
-Do not ask for too much, $3000 is what we recommend. 
+Do not ask for too large of a donation, for most success $3000 is what we recommend. 
 
 Based off our Data Kickstarters, To be most Successful ask for...
 Mean Goal: $5049
