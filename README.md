@@ -3,7 +3,7 @@ Analysis of Kickstarter Data for our stakeholder Louise. This Workbook breaks do
 Recommendations for successful kickstarter: 
 Host Region: United States
 Category: Theater
-Best time to Launch Kickstarter Campaign: May, June, July ![image_name](path/to/image_name.png)
+Best time to Launch Kickstarter Campaign: May, June, July ![image_name](file:///Users/jguo/Desktop/Analysis%20Project/Crowdfunding%20Analysis/Line_Chart_Analysis.png)
 Do not ask for too much, $3000 is what we recommend. 
 
 Based off our Data Kickstarters, To be most Successful ask for...
