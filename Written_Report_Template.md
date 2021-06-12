@@ -1,16 +1,27 @@
 # Kickstarting with Excel
 
 ## Overview of Project
+To Create two Charts called "Theater Outcome By Start Date" and "Outcomes based on Goals"
 
 ### Purpose
+My Stakeholder Louise’s recently watched a Play called "Fever" It was awesome, exciting but most importantly It made a profit. Louise wants to find out how different campaigns fare based on their launch date and funding goals. I must return my findings and submit a report to Louise.
 
 ## Analysis and Challenges
+Pivot Table
+Filter Parent category = theater
+Formula =CountIfs, Sum
+
 
 ### Analysis of Outcomes Based on Launch Date
+May is the best time to plan a campaign for theater. 
+Oct is the worst time to plan a campaign for theater.
 
 ### Analysis of Outcomes Based on Goals
+As Request for larger sum of Money increases, chance of Success decrease. Sweet Spot is around 15-19k. Data is skewed regarding larger sums. Could be fixed by including more rows. Perhaps increasing the timeline of the data to larger than 17 years. 
 
 ### Challenges and Difficulties Encountered
+
+I was using "countif" and failing on the formula. I Got frusterated and just decided to manually added those numbers by filtering and sorting by subcategorie. Turns out thats not acceptable. Gotta be "CountIfs" with a "S" So I Decided to click the hint and watch the video about Countifs. Mega Face palm and re-did the entire spreadsheet correctly. 
 
 ## Results
 
